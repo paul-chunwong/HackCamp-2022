@@ -1,3 +1,11 @@
 html *{
-    color:chocolate;
+    color:#648fff;
+}
+
+html a{
+    color: #ffb000;
+}
+
+html span{
+    color: #dc267f;
 }

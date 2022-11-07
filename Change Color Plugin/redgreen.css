@@ -1,3 +1,11 @@
 html *{
-    color: darkcyan;
+    color: #fe6100;
+}
+
+html a{
+    color: #dc267f;
+}
+
+html span{
+    color: #785ef0;
 }
