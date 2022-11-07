@@ -2,26 +2,25 @@ html {
     width: 270px;
     height: 180px;
     margin: 5px;
-  }
-  
-  body {
+}
+
+body {
     font-family: 'Montserrat';
-  }
-  
-  
-  div {
+}
+
+div {
     margin-left: 12px;
     margin-right: 12px;
     /* text-align: center; */
-  }
-  
-  button {
+}
+
+button {
     margin: 0% 4% 3% 4%;
-    background-color:lightgray;
+    background-color: lightgray;
     color: black;
-  }
-  
-  button:hover {
+}
+
+button:hover {
     background-color: #E14D2A;
     color: white;
-  }
+}
